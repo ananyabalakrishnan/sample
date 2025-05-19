@@ -1,9 +1,6 @@
 print('Hello World')
 
-<<<<<<< HEAD
-=======
 '''
->>>>>>> 2f44316 (testingpythoncode)
 a = 10
 print(a) #print integer
 
@@ -15,8 +12,7 @@ print(type(10))
 for i in range(10):
     print(i)
 
-<<<<<<< HEAD
-=======
+
 print(round(23.5678,2))
 
 x = input("Enter value: ")
@@ -28,4 +24,4 @@ stringword = input("Enter sentence: ")
 print(stringword)
 print(len(stringword))
 
->>>>>>> 2f44316 (testingpythoncode)
+
