@@ -1,3 +1,3 @@
 # sample
 Trying out github_test
-i hate aneri
+Created a codespace to experiment with python script
