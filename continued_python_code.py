@@ -20,4 +20,5 @@ print(list.copy())
 
 #tuple commands
 my_tuple = ("apple", "banana", "cherry", "apple")
-print(my_tuple.count("apple"))
+print(my_tuple.count("apple")) #counts the amount of times element is in tuple
+print(my_tuple.index("cherry")) #finds the index of the first occurence of an element
